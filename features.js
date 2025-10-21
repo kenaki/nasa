@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebas
 import { getDatabase, ref, get } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDgJAElA3fsD-bZ-LXMVJpGd_4cbglLV2U",
+    apiKey: 
     databaseURL: "https://stellarfarmers-a849d-default-rtdb.firebaseio.com",
 };
 
